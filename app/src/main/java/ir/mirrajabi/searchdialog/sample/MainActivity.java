@@ -146,15 +146,15 @@ public class MainActivity extends AppCompatActivity {
 	
 	private ArrayList<SampleModel> createSampleData() {
 		ArrayList<SampleModel> items = new ArrayList<>();
-		items.add(new SampleModel("Thứ hai"));
-		items.add(new SampleModel("Thứ ba"));
-		items.add(new SampleModel("Thứ tư"));
-		items.add(new SampleModel("Thứ bảy"));
-		items.add(new SampleModel("Thứ năm"));
-		items.add(new SampleModel("Thứ sáu"));
-		items.add(new SampleModel("Chủ nhật"));
-		items.add(new SampleModel("Hôm qua"));
-		items.add(new SampleModel("ngày mai"));
+		items.add(new SampleModel("Thành phố Hồ Chí Minh"));
+		items.add(new SampleModel("Tỉnh Bắc Ninh"));
+		items.add(new SampleModel("Tỉnh Thái Bình"));
+		items.add(new SampleModel("Tỉnh Bắc Giang"));
+		items.add(new SampleModel("Tỉnh Bến Tre"));
+		items.add(new SampleModel("Thành phố Hà Nội"));
+		items.add(new SampleModel("Tỉnh Bà Rịa Vũng Tàu"));
+		items.add(new SampleModel("Tỉnh Tây Ninh"));
+		items.add(new SampleModel("Tỉnh Long An"));
 		return items;
 	}
 	

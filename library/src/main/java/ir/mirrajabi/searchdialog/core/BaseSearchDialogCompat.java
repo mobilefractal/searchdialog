@@ -107,7 +107,7 @@ public abstract class BaseSearchDialogCompat<T extends Searchable> extends AppCo
 	@Override
 	public Filter getFilter() {
 		if (mFilter == null) {
-			mFilter = new SimpleSearchFilter<>(mItems, mFilterResultListener, true, 0.33f);
+			mFilter = new SimpleSearchFilter<>(mItems, mFilterResultListener, false, 0.33f);
 		}
 		return mFilter;
 	}

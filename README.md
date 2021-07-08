@@ -14,7 +14,7 @@ This library is cloned  [SearchDialog](https://github.com/mirrajabi/search-dialo
 ```
 2) Add a dependency on the library:
 ```groovy
-         implementation 'com.github.mobilefractal:searchdialog:1.0.0'
+         implementation 'com.github.mobilefractal:searchdialog:1.0.1'
 ```
 ## Contact
 - **Email**: mobilefractal1@gmail.com
