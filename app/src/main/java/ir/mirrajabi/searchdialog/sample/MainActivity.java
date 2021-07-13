@@ -155,6 +155,9 @@ public class MainActivity extends AppCompatActivity {
 		items.add(new SampleModel("Tỉnh Bà Rịa Vũng Tàu"));
 		items.add(new SampleModel("Tỉnh Tây Ninh"));
 		items.add(new SampleModel("Tỉnh Long An"));
+		items.add(new SampleModel("Thành Phố Đà Nằng"));
+		items.add(new SampleModel("Tỉnh Đồng Nai"));
+		items.add(new SampleModel("Tỉnh Đồng Tháp"));
 		return items;
 	}
 	
